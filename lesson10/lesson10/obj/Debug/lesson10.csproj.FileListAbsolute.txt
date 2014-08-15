@@ -1,0 +1,14 @@
+c:\users\gcstudent\documents\visual studio 2012\Projects\lesson10\lesson10\bin\lesson10.dll
+c:\users\gcstudent\documents\visual studio 2012\Projects\lesson10\lesson10\bin\lesson10.pdb
+c:\users\gcstudent\documents\visual studio 2012\Projects\lesson10\lesson10\obj\Debug\lesson10.csprojResolveAssemblyReference.cache
+c:\users\gcstudent\documents\visual studio 2012\Projects\lesson10\lesson10\obj\Debug\lesson10.dll
+c:\users\gcstudent\documents\visual studio 2012\Projects\lesson10\lesson10\obj\Debug\lesson10.pdb
+c:\users\gcstudent\documents\visual studio 2012\Projects\lesson10\lesson10\bin\EntityFramework.dll
+c:\users\gcstudent\documents\visual studio 2012\Projects\lesson10\lesson10\bin\EntityFramework.xml
+G:\School\Enterprise Computing\lesson10\lesson10\bin\lesson10.dll
+G:\School\Enterprise Computing\lesson10\lesson10\bin\lesson10.pdb
+G:\School\Enterprise Computing\lesson10\lesson10\bin\EntityFramework.dll
+G:\School\Enterprise Computing\lesson10\lesson10\bin\EntityFramework.xml
+G:\School\Enterprise Computing\lesson10\lesson10\obj\Debug\lesson10.csprojResolveAssemblyReference.cache
+G:\School\Enterprise Computing\lesson10\lesson10\obj\Debug\lesson10.dll
+G:\School\Enterprise Computing\lesson10\lesson10\obj\Debug\lesson10.pdb

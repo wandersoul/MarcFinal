@@ -1,0 +1,14 @@
+﻿body {
+    background-color: lightgray;
+    color: navy;
+    font-family: 'Trebuchet MS';
+}
+
+footer {
+    background-color: firebrick;
+    color: white;
+}
+
+a, a:visited {
+    color: firebrick;
+}
